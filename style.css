@@ -16,6 +16,7 @@ canvas {
   font-style: normal;
 }
 
+body { margin: 0; }
 
 main {
   width: 100vw;
